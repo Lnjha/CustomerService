@@ -1,0 +1,14 @@
+D:\Practice\Bingo\src\Service\src\CustomerService.Infrastructure\bin\Debug\netstandard2.0\CustomerService.Infrastructure.deps.json
+D:\Practice\Bingo\src\Service\src\CustomerService.Infrastructure\bin\Debug\netstandard2.0\CustomerService.Infrastructure.dll
+D:\Practice\Bingo\src\Service\src\CustomerService.Infrastructure\obj\Debug\netstandard2.0\CustomerService.Infrastructure.AssemblyInfoInputs.cache
+D:\Practice\Bingo\src\Service\src\CustomerService.Infrastructure\obj\Debug\netstandard2.0\CustomerService.Infrastructure.AssemblyInfo.cs
+D:\Practice\Bingo\src\Service\src\CustomerService.Infrastructure\obj\Debug\netstandard2.0\CustomerService.Infrastructure.csprojAssemblyReference.cache
+D:\Practice\Bingo\src\Service\src\CustomerService.Infrastructure\bin\Debug\netstandard2.0\CustomerService.Infrastructure.pdb
+D:\Practice\Bingo\src\Service\src\CustomerService.Infrastructure\bin\Debug\netstandard2.0\CustomerService.Common.dll
+D:\Practice\Bingo\src\Service\src\CustomerService.Infrastructure\bin\Debug\netstandard2.0\CustomerService.Domain.dll
+D:\Practice\Bingo\src\Service\src\CustomerService.Infrastructure\bin\Debug\netstandard2.0\CustomerService.Common.pdb
+D:\Practice\Bingo\src\Service\src\CustomerService.Infrastructure\bin\Debug\netstandard2.0\CustomerService.Domain.pdb
+D:\Practice\Bingo\src\Service\src\CustomerService.Infrastructure\obj\Debug\netstandard2.0\CustomerService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Practice\Bingo\src\Service\src\CustomerService.Infrastructure\obj\Debug\netstandard2.0\CustomerService.Infrastructure.csproj.CopyComplete
+D:\Practice\Bingo\src\Service\src\CustomerService.Infrastructure\obj\Debug\netstandard2.0\CustomerService.Infrastructure.dll
+D:\Practice\Bingo\src\Service\src\CustomerService.Infrastructure\obj\Debug\netstandard2.0\CustomerService.Infrastructure.pdb

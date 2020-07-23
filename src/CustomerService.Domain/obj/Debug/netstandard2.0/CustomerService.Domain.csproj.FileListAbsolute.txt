@@ -1,0 +1,9 @@
+D:\Practice\Bingo\src\Service\src\CustomerService.Domain\bin\Debug\netstandard2.0\CustomerService.Domain.deps.json
+D:\Practice\Bingo\src\Service\src\CustomerService.Domain\bin\Debug\netstandard2.0\CustomerService.Domain.dll
+D:\Practice\Bingo\src\Service\src\CustomerService.Domain\bin\Debug\netstandard2.0\CustomerService.Domain.pdb
+D:\Practice\Bingo\src\Service\src\CustomerService.Domain\obj\Debug\netstandard2.0\CustomerService.Domain.csprojAssemblyReference.cache
+D:\Practice\Bingo\src\Service\src\CustomerService.Domain\obj\Debug\netstandard2.0\CustomerService.Domain.AssemblyInfoInputs.cache
+D:\Practice\Bingo\src\Service\src\CustomerService.Domain\obj\Debug\netstandard2.0\CustomerService.Domain.AssemblyInfo.cs
+D:\Practice\Bingo\src\Service\src\CustomerService.Domain\obj\Debug\netstandard2.0\CustomerService.Domain.dll
+D:\Practice\Bingo\src\Service\src\CustomerService.Domain\obj\Debug\netstandard2.0\CustomerService.Domain.pdb
+D:\Practice\Bingo\src\Service\src\CustomerService.Domain\obj\Debug\netstandard2.0\CustomerService.Domain.csproj.CoreCompileInputs.cache
