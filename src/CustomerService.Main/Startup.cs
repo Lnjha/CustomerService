@@ -21,12 +21,13 @@ namespace CustomerService.Main
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            var appSettings = Configuration.GetSection("AppSettings");
             services.AddCors(options =>
             {
                 options.AddPolicy(name: AllowSpecificOrigins,
                                   builder =>
                                   {
-                                      builder.AllowAnyOrigin().AllowAnyMethod();
+                                      builder.WithOrigins(appSettings["FrontendUrl"]).AllowAnyHeader().AllowAnyMethod();
                                   });
             });
             services.AddSwaggerGen(c =>
