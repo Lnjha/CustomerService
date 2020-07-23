@@ -1,0 +1,12 @@
+/src/CustomerService.Common/obj
+/src/CustomerService.Common/bin
+/src/CustomerService.Domain/bin
+/src/CustomerService.Domain/obj
+/src/CustomerService.Infrastructure/bin
+/src/CustomerService.Infrastructure/obj
+/src/CustomerService.Main/bin
+/src/CustomerService.Main/obj
+/src/CustomerService.Service/bin
+/src/CustomerService.Service/obj
+/src/CustomerServices.Tests/bin
+/src/CustomerServices.Tests/obj

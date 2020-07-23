@@ -1,11 +1,7 @@
-﻿using CustomerService.Infrastructure.Data;
-using CustomerService.Main;
-using CustomerService.Service.DTO;
+﻿using CustomerService.Main;
+using CustomerService.Service.Contracts.Requests;
+using CustomerService.Service.Contracts.Responses;
 using Microsoft.AspNetCore.Mvc.Testing;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Storage;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.DependencyInjection.Extensions;
 using System.Net.Http;
 using System.Threading.Tasks;
 
@@ -16,15 +12,7 @@ namespace CustomerService.Tests
         protected readonly HttpClient TestClient;
         protected TestBase()
         {
-            var appFactory = new WebApplicationFactory<Startup>()
-               .WithWebHostBuilder(builder =>
-               {
-                   builder.ConfigureServices(services =>
-                   {
-                       services.RemoveAll(typeof(AppDbContext));
-                       services.AddDbContext<AppDbContext>(options => options.UseInMemoryDatabase("TestDb"));
-                   });
-               });
+            var appFactory = new WebApplicationFactory<Startup>();
             TestClient = appFactory.CreateClient();
         }
 

@@ -1,4 +1,4 @@
-namespace CustomerService.Service.DTO
+namespace CustomerService.Service.Contracts.Responses
 {
     public class CustomerResponse
     {

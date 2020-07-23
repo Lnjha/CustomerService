@@ -1,5 +1,6 @@
 using CustomerService.Service;
-using CustomerService.Service.DTO;
+using CustomerService.Service.Contracts.Requests;
+using CustomerService.Service.Contracts.Responses;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;

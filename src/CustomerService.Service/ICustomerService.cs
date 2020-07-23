@@ -1,4 +1,5 @@
-﻿using CustomerService.Service.DTO;
+﻿using CustomerService.Service.Contracts.Requests;
+using CustomerService.Service.Contracts.Responses;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 

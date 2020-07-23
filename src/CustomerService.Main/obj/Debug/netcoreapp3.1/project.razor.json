@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\Practice\\Bingo\\CustomerService\\CustomerService.csproj",
+  "FilePath": "d:\\Practice\\Bingo\\src\\Service\\src\\CustomerService.Main\\CustomerService.Main.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20518,7 +20518,7 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": "CustomerService",
+  "RootNamespace": "CustomerService.Main",
   "Documents": [],
   "SerializationFormat": "0.2"
 }

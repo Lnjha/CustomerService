@@ -1,6 +1,7 @@
 using AutoMapper;
 using CustomerService.Domain.Entities;
-using CustomerService.Service.DTO;
+using CustomerService.Service.Contracts.Requests;
+using CustomerService.Service.Contracts.Responses;
 
 namespace CustomerService.Service.Profiles
 {

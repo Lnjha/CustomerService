@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace CustomerService.Service.DTO
+namespace CustomerService.Service.Contracts.Requests
 {
     public class AddCustomerRequest
     {
